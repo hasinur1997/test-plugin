@@ -1,6 +1,5 @@
 const path = require('path');
 const { VueLoaderPlugin } = require('vue-loader');
-const ESLintPlugin = require('eslint-webpack-plugin');
 const isProductionMode = process.env.NODE_ENV === 'production';
 
 module.exports = {
@@ -40,6 +39,5 @@ module.exports = {
 
     plugins: [
         new VueLoaderPlugin(),
-        // new ESLintPlugin(),
     ]
 }

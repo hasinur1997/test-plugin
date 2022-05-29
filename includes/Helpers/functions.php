@@ -15,8 +15,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 /**
  * Get api data from the miusage server.
  *
- * @param string $refresh
- * 
+ * @param string $refresh Human readable date status.
+ *
  * @return array
  */
 function miusage_get_data( $refresh = 'no' ) {

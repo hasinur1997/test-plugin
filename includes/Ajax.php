@@ -12,7 +12,7 @@ use AwesomeMotive\Miusage\Traits\Singleton;
 
 /**
  * Class Ajax
- * 
+ *
  * @package AwesomeMotive\Miusage
  */
 class Ajax {

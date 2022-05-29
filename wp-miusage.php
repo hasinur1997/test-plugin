@@ -9,6 +9,8 @@
  * License: GPL2
  * Text Domain: wp-miusage
  * Domain Path: /languages
+ *
+ * @package AwesomeMotive\Miusage
  */
 
 /**
@@ -43,7 +45,7 @@ namespace AwesomeMotive\Miusage;
 
 use AwesomeMotive\Miusage\Plugin;
 
-// Don't call the file directly
+// Don't call the file directly.
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }

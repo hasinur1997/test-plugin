@@ -43,7 +43,9 @@ class Assets {
 			// Styles.
 			wp_enqueue_style(
 				'miusage-style',
-				plugin()->assets_dir . '/css/admin.css'
+				plugin()->assets_dir . '/css/admin.css',
+				[],
+				plugin()->version
 			);
 
 			// Scripts.

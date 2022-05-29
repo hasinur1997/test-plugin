@@ -7,8 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack --watch --progress",
     "prod": "NODE_ENV=production webpack --progress && npm run makepot",
-    "makepot": "wpvuei18n makepot",
-    "lint": "eslint --config eslintrc.js --ext .js,.vue ."
+    "makepot": "wpvuei18n makepot"
   },
   "keywords": [],
   "author": "",
@@ -32,7 +31,6 @@
     "vue": "^3.2.36",
     "vue-chartjs": "^4.1.1",
     "vue-loader": "^17.0.0",
-    "vue-moment": "^4.1.0",
     "vue-router": "^4.0.15",
     "vue-style-loader": "^4.1.3",
     "vue-template-compiler": "^2.6.14",
