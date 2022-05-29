@@ -1,0 +1,24 @@
+{
+    "name": "awesomemotive/miusage",
+    "autoload": {
+        "psr-4": {
+            "AwesomeMotive\\Miusage\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hasinur Rahman",
+            "email": "hasinurrahman3@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpcompatibility/phpcompatibility-wp": "*",
+        "wp-coding-standards/wpcs": "^2.3",
+        "sirbrillig/phpcs-variable-analysis": "^2.11",
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.7.2"
+    },
+    "scripts": {
+        "phpcbf": "phpcbf",
+        "phpcs": "phpcs"
+    }
+}

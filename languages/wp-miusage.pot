@@ -1,0 +1,86 @@
+# Copyright (C) 2022 Hasinur Rahman
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Miusage Plugin 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-miusage\n"
+"POT-Creation-Date: 2022-05-29 06:18:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: wp-vue-i18n 1.1.5\n"
+
+#: includes/Admin/Admin.php:40 includes/Admin/Admin.php:41
+msgid "Miusage"
+msgstr ""
+
+#: includes/Ajax.php:80
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+#: includes/Ajax.php:83
+msgid "Number of rows should be 1 to 5."
+msgstr ""
+
+#: includes/Ajax.php:87
+msgid "Email address should be maximum of 5."
+msgstr ""
+
+#: includes/Ajax.php:101
+msgid "Settings has been updated successfully."
+msgstr ""
+
+#: src/components/NavBar.vue:3
+msgid "Table"
+msgstr ""
+
+#: src/components/NavBar.vue:4
+msgid "Graph"
+msgstr ""
+
+#: src/components/NavBar.vue:5
+msgid "Settings"
+msgstr ""
+
+#: src/components/SettingsForm.vue:19
+msgid "Number of rows"
+msgstr ""
+
+#: src/pages/Graph.vue:7
+msgid "Refresh"
+msgstr ""
+
+#: src/pages/Graph.vue:112
+msgid "Color"
+msgstr ""
+
+#: src/pages/Table.vue:15
+msgid "Settings emails"
+msgstr ""
+
+#: src/store/actions.js:162
+msgid "Settings updated."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP Miusage Plugin"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/hasinur1997"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A simple API based plugin for fetching data from miusage"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Hasinur Rahman"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://github.com/hasinur1997"
+msgstr ""

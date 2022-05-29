@@ -1,0 +1,40 @@
+.wp-miusage-nav {
+    height: 58px;
+    background-color: #fff;
+    font-size: 14px;
+    margin: 0 0 20px 0;
+    padding: 0 20px;
+}
+.miusage-nav-tab {
+    border-bottom: 2px solid #fff;
+    box-shadow: none;
+    color: #666;
+    display: inline-block;
+    margin-right: 30px;
+    padding: 20px 0 18px 0;
+    text-decoration: none;
+    outline: none !important;
+}
+.miusage-nav-tab:hover {
+    border-color: #999;
+    color: #666;
+}
+.miusage-nav-tab-active {
+    border-bottom: 2px solid #ff982d;
+    outline: 0;
+}
+input[type=email],
+input[type=number] {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: none;
+    color: #333;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 7px 12px;
+    margin: 0 10px 0 0;
+    width: 400px;
+    min-height: 35px;
+    line-height: 1.3;
+}
